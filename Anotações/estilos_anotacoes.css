@@ -1,0 +1,55 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: #CACACA;
+}
+
+#titulo{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    color:rgb(34, 34, 34);
+    text-align: center;
+}
+
+section{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #706a69;
+    border-radius: 20px;
+    width: 80%;
+    height: auto;
+    padding: 15px;
+}
+
+textarea{
+    width: 95%;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    resize: none;
+    background-color: rgba(34, 34, 34, 0);
+    border: none;
+}
+
+form button{
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#resgata{
+    width: 50px;
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+}
